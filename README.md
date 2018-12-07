@@ -1,6 +1,6 @@
 # Shotis
 
-reshot is your screenshot cli.
+shotis is your screenshot cli.
 
 ### Installing
 
